@@ -1,2 +1,2 @@
 # edge-service
-Edge service
+APi Gateway 
