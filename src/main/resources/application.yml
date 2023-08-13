@@ -4,7 +4,6 @@ server:
     connection-timeout: 2s
     idle-timeout: 15s
   shutdown: graceful
-
 spring:
   application:
     name: edge-service
